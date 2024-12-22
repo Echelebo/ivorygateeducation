@@ -147,7 +147,7 @@
                                 </div>
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Pages</a>
+                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">About Us</a>
                                 <ul class="dropdown-menu fade-down">
                                     <li><a class="dropdown-item" href="/about">About Us</a></li>
 
@@ -164,7 +164,7 @@
                             </li>
 
                             <li class="nav-item ">
-                                <a class="nav-link dropdown-toggle-x" href="#" data-bs-toggle="dropdown-x">Our Blog</a>
+                                <a class="nav-link dropdown-toggle-x" href="/blog" data-bs-toggle="dropdown-x">Our Blog</a>
 
                             </li>
                             <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
