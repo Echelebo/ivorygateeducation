@@ -33,19 +33,28 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="footer-widget-box list">
-                            <h4 class="footer-widget-title">Our Services</h4>
+                            <h4 class="footer-widget-title">College</h4>
                             <ul class="footer-list">
                                 <li><a href="/artanddesign"><i class="fas fa-caret-right"></i> Art And Design</a></li>
                                 <li><a href="/computertraining"><i class="fas fa-caret-right"></i> Computer Training</a></li>
                                 <li><a href="/accountingandfinance"><i class="fas fa-caret-right"></i> Accounting And Finance</a></li>
                                 <li><a href="/biology"><i class="fas fa-caret-right"></i> Biology</a></li>
                                 <li><a href="/scienceandengineering"><i class="fas fa-caret-right"></i> Science And Engineering</a></li>
-                                <li><a href="/softwaresystem"><i class="fas fa-caret-right"></i> Software System</a></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="footer-widget-box list">
+                            <h4 class="footer-widget-title">Undergraduate</h4>
+                            <ul class="footer-list">
+                    <li><a href="/softwaresystem"><i class="fas fa-caret-right"></i> Software System</a></li>
                                 <li><a href="/humanresources"><i class="fas fa-caret-right"></i> Human Resources</a></li>
                                 <li><a href="/healthadmin"><i class="fas fa-caret-right"></i> Health Administration</a></li>
                                 <li><a href="/biochemistry"><i class="fas fa-caret-right"></i> Biochemistry</a></li>
                                 <li><a href="/computerscience"><i class="fas fa-caret-right"></i> Computer Science</a></li>
-                            </ul>
+
+                                </ul>
                         </div>
                     </div>
 
