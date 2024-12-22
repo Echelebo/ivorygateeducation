@@ -8,7 +8,7 @@
                 <div class="row footer-widget-wrapper pt-100 pb-70">
                     <div class="col-md-6 col-lg-4">
                         <div class="footer-widget-box about-us">
-                            <a href="#" class="footer-logo">
+                            <a href="/" class="footer-logo">
                                 <img src="assets/img/logo/logo-light.png" alt="">
                             </a>
                             <p class="mb-3">
