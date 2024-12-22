@@ -10,26 +10,26 @@
                             <div class="col-md-12 col-lg-7">
                                 <div class="hero-content">
                                     <h6 class="hero-sub-title" data-animation="fadeInDown" data-delay=".25s">
-                                        <i class="far fa-book-open-reader"></i>Welcome To Eduka!
+                                        <i class="far fa-book-open-reader"></i>Welcome To Ivorygate!
                                     </h6>
                                     <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
                                         Start Your Beautiful And <span>Bright</span> Future
                                     </h1>
                                     <p data-animation="fadeInLeft" data-delay=".75s">
-                                        There are many variations of passages orem psum available but the majority have
-                                        suffered alteration in some repeat predefined chunks form
-                                        injected humour.
+                                    Every teaching and learning journey is unique Following
+                                    We'll help guide your way.
                                     </p>
                                     <div class="hero-btn" data-animation="fadeInUp" data-delay="1s">
-                                        <a href="about.html" class="theme-btn">About More<i
+                                        <a href="/about" class="theme-btn">About Us<i
                                                 class="fas fa-arrow-right-long"></i></a>
-                                        <a href="contact.html" class="theme-btn theme-btn2">Learn More<i
+                                        <a href="/contact" class="theme-btn theme-btn2">Enquire Now<i
                                                 class="fas fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                 </div>
                 <div class="hero-single" style="background: url(assets/img/slider/slider-2.jpg)">
                     <div class="container">
@@ -37,20 +37,18 @@
                             <div class="col-md-12 col-lg-7">
                                 <div class="hero-content">
                                     <h6 class="hero-sub-title" data-animation="fadeInDown" data-delay=".25s">
-                                        <i class="far fa-book-open-reader"></i>Welcome To Eduka!
+                                        <i class="far fa-book-open-reader"></i>Welcome To Ivorygate!
                                     </h6>
                                     <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
-                                        Start Your Beautiful And <span>Bright</span> Future
+                                    Never Stop Learning, Life Never Stop Teaching
                                     </h1>
                                     <p data-animation="fadeInLeft" data-delay=".75s">
-                                        There are many variations of passages orem psum available but the majority have
-                                        suffered alteration in some repeat predefined chunks form
-                                        injected humour.
+                                    Combines the ideas of empowered learning and top-tier instruction for students.
                                     </p>
                                     <div class="hero-btn" data-animation="fadeInUp" data-delay="1s">
-                                        <a href="about.html" class="theme-btn">About More<i
+                                        <a href="/about" class="theme-btn">About Us<i
                                                 class="fas fa-arrow-right-long"></i></a>
-                                        <a href="contact.html" class="theme-btn theme-btn2">Learn More<i
+                                        <a href="/contact" class="theme-btn theme-btn2">Enquire Now<i
                                                 class="fas fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>
@@ -64,20 +62,18 @@
                             <div class="col-md-12 col-lg-7">
                                 <div class="hero-content">
                                     <h6 class="hero-sub-title" data-animation="fadeInDown" data-delay=".25s">
-                                        <i class="far fa-book-open-reader"></i>Welcome To Eduka!
+                                        <i class="far fa-book-open-reader"></i>Welcome To Ivorygate!
                                     </h6>
                                     <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
                                         Start Your Beautiful And <span>Bright</span> Future
                                     </h1>
                                     <p data-animation="fadeInLeft" data-delay=".75s">
-                                        There are many variations of passages orem psum available but the majority have
-                                        suffered alteration in some repeat predefined chunks form
-                                        injected humour.
+                                    Our instructors are industry experts and passionate educators with a wealth of knowledge and experience.
                                     </p>
                                     <div class="hero-btn" data-animation="fadeInUp" data-delay="1s">
-                                        <a href="about.html" class="theme-btn">About More<i
+                                        <a href="/about" class="theme-btn">About Us<i
                                                 class="fas fa-arrow-right-long"></i></a>
-                                        <a href="contact.html" class="theme-btn theme-btn2">Learn More<i
+                                        <a href="/contact" class="theme-btn theme-btn2">Enquire Now<i
                                                 class="fas fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>
@@ -103,7 +99,7 @@
                                 </div>
                                 <div class="feature-content">
                                     <h4 class="feature-title">Scholarship Facility</h4>
-                                    <p>It is a long established fact that a reader will be distracted.</p>
+
                                 </div>
                             </div>
                         </div>
@@ -115,7 +111,7 @@
                                 </div>
                                 <div class="feature-content">
                                     <h4 class="feature-title">Skilled Lecturers</h4>
-                                    <p>It is a long established fact that a reader will be distracted.</p>
+
                                 </div>
                             </div>
                         </div>
@@ -127,7 +123,7 @@
                                 </div>
                                 <div class="feature-content">
                                     <h4 class="feature-title">Book Library Facility</h4>
-                                    <p>It is a long established fact that a reader will be distracted.</p>
+
                                 </div>
                             </div>
                         </div>
@@ -139,7 +135,7 @@
                                 </div>
                                 <div class="feature-content">
                                     <h4 class="feature-title">Affordable Price</h4>
-                                    <p>It is a long established fact that a reader will be distracted.</p>
+
                                 </div>
                             </div>
                         </div>
@@ -166,7 +162,7 @@
                                             <div class="about-experience-icon">
                                                 <img src="assets/img/icon/exchange-idea.svg" alt="">
                                             </div>
-                                            <b class="text-start">30 Years Of <br> Quality Service</b>
+                                            <b class="text-start">Many Years Of <br> Quality Service</b>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
@@ -182,13 +178,11 @@
                             <div class="site-heading mb-3">
                                 <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> About Us</span>
                                 <h2 class="site-title">
-                                    Our Edukation System <span>Inspires</span> You More.
+                                    Our Education System <span>Inspires</span> You More.
                                 </h2>
                             </div>
                             <p class="about-text">
-                                There are many variations of passages available but the majority have suffered
-                                alteration in some form by injected humour randomised words which don't look even
-                                slightly believable. If you are going to use passage.
+                            We don’t just give students an education and experiences that set them up for success in a career. We help them succeed in their career—to discover a field they’re passionate about and dare to lead it.
                             </p>
                             <div class="about-content">
                                 <div class="row">
@@ -198,8 +192,8 @@
                                                 <img src="assets/img/icon/open-book.svg" alt="">
                                             </div>
                                             <div class="about-item-content">
-                                                <h5>Edukation Services</h5>
-                                                <p>It is a long established fact that reader will to using content.</p>
+                                                <h5>Education Services</h5>
+
                                             </div>
                                         </div>
                                         <div class="about-item">
@@ -207,23 +201,21 @@
                                                 <img src="assets/img/icon/global-education.svg" alt="">
                                             </div>
                                             <div class="about-item-content">
-                                                <h5>International Hubs</h5>
-                                                <p>It is a long established fact that reader will to using content.</p>
+                                                <h5>Admission Hubs</h5>
+
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-5">
                                         <div class="about-quote">
-                                            <p>It is a long established fact that a reader will be distracted by the
-                                                content of
-                                                a page when looking at its reader for the long words layout.</p>
+                                            <p>Ivorygate Education Center was established for the public benefit and it is recognized. Throughout our great history, Ivorygate has offered access to a wide range of academic opportunities. </p>
                                             <i class="far fa-quote-right"></i>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="about-bottom">
-                                <a href="about.html" class="theme-btn">Discover More<i
+                                <a href="/about" class="theme-btn">Discover More<i
                                         class="fas fa-arrow-right-long"></i></a>
                                 <div class="about-phone">
                                     <div class="icon"><i class="fal fa-headset"></i></div>
@@ -250,8 +242,8 @@
                                 <img src="assets/img/icon/course.svg" alt="">
                             </div>
                             <div>
-                                <span class="counter" data-count="+" data-to="500" data-speed="3000">500</span>
-                                <h6 class="title">+ Total Cources </h6>
+                                <span class="counter" data-count="+" data-to="30" data-speed="3000">30</span>
+                                <h6 class="title">+ Total Subjects  </h6>
                             </div>
                         </div>
                     </div>
@@ -261,7 +253,7 @@
                                 <img src="assets/img/icon/graduation.svg" alt="">
                             </div>
                             <div>
-                                <span class="counter" data-count="+" data-to="1900" data-speed="3000">1900</span>
+                                <span class="counter" data-count="+" data-to="200" data-speed="3000">200</span>
                                 <h6 class="title">+ Our Students</h6>
                             </div>
                         </div>
@@ -272,7 +264,7 @@
                                 <img src="assets/img/icon/teacher-2.svg" alt="">
                             </div>
                             <div>
-                                <span class="counter" data-count="+" data-to="750" data-speed="3000">750</span>
+                                <span class="counter" data-count="+" data-to="50" data-speed="3000">50</span>
                                 <h6 class="title">+ Skilled Lecturers</h6>
                             </div>
                         </div>

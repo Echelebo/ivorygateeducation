@@ -59,13 +59,13 @@
                         <div class="header-top-contact">
                             <ul>
                                 <li>
-                                    <a href="#"><i class="far fa-location-dot"></i> 25/B Milford Road, New York</a>
+                                    <a href="#"><i class="far fa-location-dot"></i>Abuja, Nigeria</a>
                                 </li>
                                 <li>
                                     <a href="mailto: contact@ivorygateeducation.org"><i class="far fa-envelopes"></i> <span class="__cf_email__" data-cfemail="30595e565f705548515d405c551e535f5d">contact@ivorygateeducation.org</span></a>
                                 </li>
                                 <li>
-                                    <a href="tel:+23436547898"><i class="far fa-phone-volume"></i> +234 36547898</a>
+                                    <a href="tel:+23436547898"><i class="far fa-phone-volume"></i>+234736547898</a>
                                 </li>
                             </ul>
                         </div>
