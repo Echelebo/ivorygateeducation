@@ -296,9 +296,7 @@
                                     <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Why Choose Us</span>
                                     <h2 class="site-title text-white mb-10">We Are Expert & <span>Do Our Best</span> For Your Goal</h2>
                                     <p class="text-white">
-                                        It is a long established fact that a reader will be distracted by the readable
-                                        content of a page when many desktop and web page editors looking at its
-                                        layout.
+                                    We provides a focused learning environment with specialized instructors, tailored curriculum, smaller class sizes, personalized attention, and often access to additional resources like labs or technology, allowing for deeper engagement and improved learning outcomes compared to traditional schooling.
                                     </p>
                                 </div>
                                 <div class="choose-content-wrap">
@@ -310,7 +308,7 @@
                                                 </div>
                                                 <div class="choose-item-info">
                                                     <h4>Expert Teachers</h4>
-                                                    <p>There are many variation of the suffered.</p>
+                                                    <p>We typically focus on specific subjects or skills, enabling instructors to provide in-depth knowledge and expertise in that area.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -320,8 +318,8 @@
                                                     <img src="assets/img/icon/course-material.svg" alt="">
                                                 </div>
                                                 <div class="choose-item-info">
-                                                    <h4>Courses Material</h4>
-                                                    <p>There are many variation of the suffered.</p>
+                                                    <h4>Targeted curriculum</h4>
+                                                    <p>Our curriculum is designed to directly address the specific skills or knowledge required for a particular field or exam, maximizing learning efficiency.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -331,8 +329,8 @@
                                                     <img src="assets/img/icon/online-course.svg" alt="">
                                                 </div>
                                                 <div class="choose-item-info">
-                                                    <h4>Online Courses</h4>
-                                                    <p>There are many variation of the suffered.</p>
+                                                    <h4>Career-focused approach</h4>
+                                                    <p>We align our programs with industry needs and career pathways, providing practical skills and training relevant to the job market. </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -342,8 +340,8 @@
                                                     <img src="assets/img/icon/money.svg" alt="">
                                                 </div>
                                                 <div class="choose-item-info">
-                                                    <h4>Affordable Price</h4>
-                                                    <p>There are many variation of the suffered.</p>
+                                                    <h4>Supportive community</h4>
+                                                    <p>Smaller student populations can foster a more supportive and collaborative learning environment where students can network and build relationships with peers and instructors.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -475,12 +473,11 @@
                     <div class="row align-items-center">
                         <div class="col-lg-5 ms-lg-auto">
                             <div class="cta-content">
-                                <h1>Our 20% Offer Running - Join Today For Your Course</h1>
-                                <p>There are many variations of passages available but the majority have suffered
-                                    alteration in some form by injected humour randomised words which don't look even
-                                    slightly believable.</p>
+                                <h1>We have online group learning running - Join Today For Your Courses</h1>
+                                <p>Our students have consistently achieved high scores in standardized tests, including Waec, Jamb.
+                                In 2024, 92% of our graduates were accepted into top-tier universities.</p>
                                 <div class="cta-btn">
-                                    <a href="application-form.html" class="theme-btn">Apply Now<i
+                                    <a href="#" class="theme-btn">Join Group Now!<i
                                             class="fas fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
@@ -497,10 +494,9 @@
                 <div class="row">
                     <div class="col-lg-6 mx-auto">
                         <div class="site-heading text-center">
-                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Department</span>
-                            <h2 class="site-title">Browse Our <span>Department</span></h2>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of
-                                a page when looking at its layout.</p>
+                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Services</span>
+                            <h2 class="site-title">Browse Our <span>Services</span></h2>
+                            <p>Ivorygate services are designed to meet the diverse needs of students and families in the community, fostering an inclusive and supportive learning environment. </p>
                         </div>
                     </div>
                 </div>
@@ -510,10 +506,11 @@
                             <img src="assets/img/icon/monitor.svg" alt="">
                         </div>
                         <div class="department-info">
-                            <h4 class="department-title"><a href="academic-single.html">Business And Finance</a></h4>
-                            <p>There are many variations of passages the majority have some injected humour.</p>
+                            <h4 class="department-title"><a href="/academictutoring">Academic Tutoring</a></h4>
+                            <p>One-on-one and group tutoring sessions across subjects (math, science, language arts, etc.).
+                            Test preparation for standardized tests (e.g., SAT, ACT, GED).</p>
                             <div class="department-btn">
-                                <a href="academic-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+                                <a href="/academictutoring">Read More<i class="fas fa-arrow-right-long"></i></a>
                             </div>
                         </div>
                     </div>
@@ -522,10 +519,10 @@
                             <img src="assets/img/icon/law.svg" alt="">
                         </div>
                         <div class="department-info">
-                            <h4 class="department-title"><a href="academic-single.html">Law And Criminology</a></h4>
-                            <p>There are many variations of passages the majority have some injected humour.</p>
+                            <h4 class="department-title"><a href="/enrichmentprograms">Enrichment Programs</a></h4>
+                            <p>Extended learning opportunities that include science and technology programs (STEM), arts, foreign languages, and fine arts.</p>
                             <div class="department-btn">
-                                <a href="academic-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+                                <a href="/enrichmentprograms">Read More<i class="fas fa-arrow-right-long"></i></a>
                             </div>
                         </div>
                     </div>
@@ -534,10 +531,11 @@
                             <img src="assets/img/icon/data.svg" alt="">
                         </div>
                         <div class="department-info">
-                            <h4 class="department-title"><a href="academic-single.html">IT And Data Science</a></h4>
-                            <p>There are many variations of passages the majority have some injected humour.</p>
+                            <h4 class="department-title"><a href="/collegeandcareer">College and Career Counseling</a></h4>
+                            <p>Guidance on college selection, application processes, and scholarship opportunities.
+                            Career assessment and planning services, including resume writing and interview preparation.</p>
                             <div class="department-btn">
-                                <a href="academic-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+                                <a href="/collegeandcareer">Read More<i class="fas fa-arrow-right-long"></i></a>
                             </div>
                         </div>
                     </div>
@@ -546,10 +544,11 @@
                             <img src="assets/img/icon/health.svg" alt="">
                         </div>
                         <div class="department-info">
-                            <h4 class="department-title"><a href="academic-single.html">Health And Medicine</a></h4>
-                            <p>There are many variations of passages the majority have some injected humour.</p>
+                            <h4 class="department-title"><a href="/specialeducation">Special Education Services</a></h4>
+                            <p>Support for students with learning disabilities or other special needs.
+                            Individualized Education Programs (IEPs) tailored to student requirements.</p>
                             <div class="department-btn">
-                                <a href="academic-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+                                <a href="/specialeducation">Read More<i class="fas fa-arrow-right-long"></i></a>
                             </div>
                         </div>
                     </div>
@@ -558,10 +557,11 @@
                             <img src="assets/img/icon/art.svg" alt="">
                         </div>
                         <div class="department-info">
-                            <h4 class="department-title"><a href="academic-single.html">Art And Design</a></h4>
-                            <p>There are many variations of passages the majority have some injected humour.</p>
+                            <h4 class="department-title"><a href="/afterschoolprograms">After-School Programs</a></h4>
+                            <p>Supervised activities that include homework help, recreational activities, and skill-building exercises.
+                            Opportunities for social engagement and teamwork through clubs and sports.</p>
                             <div class="department-btn">
-                                <a href="academic-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+                                <a href="/afterschoolprograms">Read More<i class="fas fa-arrow-right-long"></i></a>
                             </div>
                         </div>
                     </div>
@@ -579,9 +579,7 @@
                         <div class="site-heading text-center">
                             <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Testimonials</span>
                             <h2 class="site-title text-white">What Our Students <span>Say's</span></h2>
-                            <p class="text-white">It is a long established fact that a reader will be distracted by the
-                                readable content of
-                                a page when looking at its layout.</p>
+                            <p class="text-white">These testimonials paint a picture of the positive impact our education center has on its students, parents, and educators.</p>
                         </div>
                     </div>
                 </div>
@@ -596,7 +594,7 @@
                         </div>
                         <div class="testimonial-quote">
                             <p>
-                                There are many variations of tend to repeat chunks some all form necessary injected for the going are humour words.
+                            Joining Ivorygate education center was one of the best decisions I’ve ever made. The personalized attention I receive from my tutors has helped me improve my grades in math significantly.
                             </p>
                         </div>
                         <div class="testimonial-content">
@@ -604,7 +602,7 @@
                                 <img src="assets/img/testimonial/01.jpg" alt="">
                             </div>
                             <div class="testimonial-author-info">
-                                <h4>Anthony Nicoll</h4>
+                                <h4>Anthony</h4>
                                 <p>Student</p>
                             </div>
                         </div>
@@ -620,7 +618,7 @@
                         </div>
                         <div class="testimonial-quote">
                             <p>
-                                There are many variations of tend to repeat chunks some all form necessary injected for the going are humour words.
+                            The support from my teachers made all the difference during my college application process. They guided me through every step, and I’m proud to say I got accepted into my dream university thanks to their help!
                             </p>
                         </div>
                         <div class="testimonial-content">
@@ -628,7 +626,7 @@
                                 <img src="assets/img/testimonial/02.jpg" alt="">
                             </div>
                             <div class="testimonial-author-info">
-                                <h4>Richard Lock</h4>
+                                <h4>Richard</h4>
                                 <p>Student</p>
                             </div>
                         </div>
@@ -644,7 +642,7 @@
                         </div>
                         <div class="testimonial-quote">
                             <p>
-                                There are many variations of tend to repeat chunks some all form necessary injected for the going are humour words.
+                            I love the after-school programs! I’ve made so many friends and learned new skills in art and robotics. It makes school so much more fun and engaging!
                             </p>
                         </div>
                         <div class="testimonial-content">
@@ -652,7 +650,7 @@
                                 <img src="assets/img/testimonial/03.jpg" alt="">
                             </div>
                             <div class="testimonial-author-info">
-                                <h4>Randal Grand</h4>
+                                <h4>Ogechi</h4>
                                 <p>Student</p>
                             </div>
                         </div>
@@ -668,7 +666,7 @@
                         </div>
                         <div class="testimonial-quote">
                             <p>
-                                There are many variations of tend to repeat chunks some all form necessary injected for the going are humour words.
+                            I cannot express how grateful I am for the support my son received at Ivorygate education center. The staff is incredibly caring and dedicated, and I can see the growth in his confidence and academic performance.
                             </p>
                         </div>
                         <div class="testimonial-content">
@@ -676,8 +674,8 @@
                                 <img src="assets/img/testimonial/04.jpg" alt="">
                             </div>
                             <div class="testimonial-author-info">
-                                <h4>Edward Miles</h4>
-                                <p>Student</p>
+                                <h4>Linda T.</h4>
+                                <p>Parent</p>
                             </div>
                         </div>
                         <span class="testimonial-quote-icon"><i class="far fa-quote-right"></i></span>
@@ -692,7 +690,7 @@
                         </div>
                         <div class="testimonial-quote">
                             <p>
-                                There are many variations of tend to repeat chunks some all form necessary injected for the going are humour words.
+                            As a parent, I appreciate how Ivorygate education center emphasizes not just academic success but also personal development.
                             </p>
                         </div>
                         <div class="testimonial-content">
@@ -701,7 +699,7 @@
                             </div>
                             <div class="testimonial-author-info">
                                 <h4>Ninal Gordon</h4>
-                                <p>Student</p>
+                                <p>Parent</p>
                             </div>
                         </div>
                         <span class="testimonial-quote-icon"><i class="far fa-quote-right"></i></span>

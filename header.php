@@ -114,30 +114,27 @@
                                                 <div class="col-12 col-sm-4 col-md-3">
                                                     <h5>College</h5>
                                                     <ul class="mega-menu-item">
-                                                        <li><a class="dropdown-item" href="/artanddesign">Art And
-                                                                Design</a></li>
-                                                        <li><a class="dropdown-item" href="/computertraining">Computer Training</a></li>
+                                                        <li><a class="dropdown-item" href="/academictutoring">Academic Tutoring</a></li>
+                                                        <li><a class="dropdown-item" href="/enrichmentprograms">Enrichment Programs</a></li>
                                                         <li><a class="dropdown-item"
-                                                                href="/accountingandfinance">Accounting And Finance</a>
+                                                                href="/collegeandcareer">College and Career Counseling</a>
                                                         </li>
-                                                        <li><a class="dropdown-item" href="/biology">Biology</a></li>
-                                                        <li><a class="dropdown-item" href="/scienceandengineering">Science
-                                                                And Engineering</a></li>
+                                                        <li><a class="dropdown-item" href="/specialeducation">Special Education Services</a></li>
+                                                        <li><a class="dropdown-item" href="/afterschoolprograms">After-School Programs</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-12 col-sm-4 col-md-3">
                                                     <h5>Undergraduate</h5>
                                                     <ul class="mega-menu-item">
                                                         <li><a class="dropdown-item"
-                                                                href="/softwaresystem">Software Systems</a></li>
-                                                        <li><a class="dropdown-item" href="/humanresources">Human
-                                                                Resource</a></li>
-                                                        <li><a class="dropdown-item" href="/healthadmin">Health
-                                                                Administration</a></li>
+                                                                href="/parentalsupport">Parental Support Services</a></li>
+                                                        <li><a class="dropdown-item" href="/extracurricular">Extracurricular Activities</a></li>
+                                                        <li><a class="dropdown-item" href="/onlinelearning">Online Learning Opportunities</a></li>
                                                         <li><a class="dropdown-item"
-                                                                href="/biochemistry">Biochemistry</a></li>
+                                                                href="/assessmentandevaluation">Assessment and Evaluation</a></li>
                                                         <li><a class="dropdown-item"
-                                                                href="/computerscience">Computer Science</a></li>
+                                                                href="/communityengagement">Community Engagement
+                                                                </a></li>
                                                     </ul>
                                                 </div>
 

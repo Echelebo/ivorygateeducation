@@ -35,11 +35,11 @@
                         <div class="footer-widget-box list">
                             <h4 class="footer-widget-title">College</h4>
                             <ul class="footer-list">
-                                <li><a href="/artanddesign"><i class="fas fa-caret-right"></i> Art And Design</a></li>
-                                <li><a href="/computertraining"><i class="fas fa-caret-right"></i> Computer Training</a></li>
-                                <li><a href="/accountingandfinance"><i class="fas fa-caret-right"></i> Accounting And Finance</a></li>
-                                <li><a href="/biology"><i class="fas fa-caret-right"></i> Biology</a></li>
-                                <li><a href="/scienceandengineering"><i class="fas fa-caret-right"></i> Science And Engineering</a></li>
+                                <li><a href="/academictutoring"><i class="fas fa-caret-right"></i> Academic Tutoring</a></li>
+                                <li><a href="/enrichmentprograms"><i class="fas fa-caret-right"></i> Enrichment Programs</a></li>
+                                <li><a href="/collegeandcareer"><i class="fas fa-caret-right"></i> College and Career Counseling</a></li>
+                                <li><a href="/specialeducation"><i class="fas fa-caret-right"></i> Special Education Services</a></li>
+                                <li><a href="/afterschoolprograms"><i class="fas fa-caret-right"></i> After-School Programs</a></li>
 
                             </ul>
                         </div>
@@ -48,11 +48,12 @@
                         <div class="footer-widget-box list">
                             <h4 class="footer-widget-title">Undergraduate</h4>
                             <ul class="footer-list">
-                    <li><a href="/softwaresystem"><i class="fas fa-caret-right"></i> Software System</a></li>
-                                <li><a href="/humanresources"><i class="fas fa-caret-right"></i> Human Resources</a></li>
-                                <li><a href="/healthadmin"><i class="fas fa-caret-right"></i> Health Administration</a></li>
-                                <li><a href="/biochemistry"><i class="fas fa-caret-right"></i> Biochemistry</a></li>
-                                <li><a href="/computerscience"><i class="fas fa-caret-right"></i> Computer Science</a></li>
+                    <li><a href="/parentalsupport"><i class="fas fa-caret-right"></i> Parental Support Services</a></li>
+                                <li><a href="/extracurricular"><i class="fas fa-caret-right"></i> Extracurricular Activities</a></li>
+                                <li><a href="/onlinelearning"><i class="fas fa-caret-right"></i> Online Learning Opportunities</a></li>
+                                <li><a href="/assessmentandevaluation"><i class="fas fa-caret-right"></i> Assessment and Evaluation</a></li>
+                                <li><a href="/communityengagement"><i class="fas fa-caret-right"></i> Community Engagement
+                                </a></li>
 
                                 </ul>
                         </div>
