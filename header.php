@@ -160,10 +160,10 @@
                                 </ul>
                             </li>
 
-                            <li class="nav-item ">
+                          <!--  <li class="nav-item ">
                                 <a class="nav-link dropdown-toggle-x" href="/blog" data-bs-toggle="dropdown-x">Our Blog</a>
 
-                            </li>
+                            </li> -->
                             <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
                         </ul>
                         <div class="nav-right">
