@@ -150,12 +150,12 @@
 
 
                                     <li>
-                                        <a class="dropdown-item " href="/meetourteam">Meet Our Team</a>
+                                        <a class="dropdown-item " href="/about">Meet Our Team</a>
 
                                     </li>
 
 
-                                    <li><a class="dropdown-item" href="/testimonial">Testimonials</a></li>
+                                    <li><a class="dropdown-item" href="/about">Testimonials</a></li>
 
                                 </ul>
                             </li>

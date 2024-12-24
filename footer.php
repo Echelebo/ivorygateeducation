@@ -23,7 +23,7 @@
                             <ul class="footer-list">
                                 <li><a href="/about"><i class="fas fa-caret-right"></i> About Us</a></li>
 
-                                <li><a href="/testimonial"><i class="fas fa-caret-right"></i> Testimonials</a></li>
+                                <li><a href="/about"><i class="fas fa-caret-right"></i> Testimonials</a></li>
                                 <li><a href="/term"><i class="fas fa-caret-right"></i> Terms Of Service</a></li>
                                 <li><a href="/privacy"><i class="fas fa-caret-right"></i> Privacy policy</a></li>
                                 <li><a href="/blog"><i class="fas fa-caret-right"></i> Update News</a></li>
