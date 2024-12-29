@@ -29,7 +29,7 @@
                                 </div>
                                 <div class="contact-info-content">
                                     <h5>Office Address</h5>
-                                    <p>25/B Milford, New York, USA</p>
+                                    <p>Lugbe, Abuja, Nigeria</p>
                                 </div>
                             </div>
                         </div>
@@ -40,7 +40,7 @@
                                 </div>
                                 <div class="contact-info-content">
                                     <h5>Call Us</h5>
-                                    <p>+2 123 4565 789</p>
+                                    <p>+2 34 123 4565 789</p>
                                 </div>
                             </div>
                         </div>
@@ -51,7 +51,7 @@
                                 </div>
                                 <div class="contact-info-content">
                                     <h5>Email Us</h5>
-                                    <p><a href="https://live.themewild.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ec85828a83ac89948d819c8089c28f8381">[email&#160;protected]</a></p>
+                                    <p><a href="mailto: contact@ivorygateeducation.org" class="__cf_email__" data-cfemail="ec85828a83ac89948d819c8089c28f8381">contact@ivorygateeducation.org</a></p>
                                 </div>
                             </div>
                         </div>
@@ -79,8 +79,7 @@
                             <div class="contact-form">
                                 <div class="contact-form-header">
                                     <h2>Get In Touch</h2>
-                                    <p>It is a long established fact that a reader will be distracted by the readable
-                                        content of a page randomised words which don't look even slightly when looking at its layout. </p>
+                                    <p>We'd love to hear from you! If you have any questions, feedback, or inquiries, please feel free to reach out using the form below. Our team is here to assist you and will get back to you as soon as possible.</p>
                                 </div>
                                 <form method="post" action="https://live.themewild.com/eduka/assets/php/contact.php" id="contact-form">
                                     <div class="row">
@@ -121,8 +120,7 @@
 
         <!-- map -->
         <div class="contact-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96708.34194156103!2d-74.03927096447748!3d40.759040329405195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a01c8df6fb3cb8!2sSolomon%20R.%20Guggenheim%20Museum!5e0!3m2!1sen!2sbd!4v1619410634508!5m2!1sen!2s"
-                style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.8471638784417!2d7.352603549494776!3d8.986207966727626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104e73d37bec2e97%3A0x592b365590cd8cd4!2sIvory%20Gate%20Education%20Centre%2C%20FHA%20Lugbe%20Abuja!5e0!3m2!1sen!2sng!4v1735470864731!5m2!1sen!2sng" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
     </main>
